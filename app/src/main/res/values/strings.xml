@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BORRAR</string>
+    <string name="HelloWord"></string>
+    <string name="cambiarTExto">agur</string>
+    <string name="btnCambiarPantalla1">Ca,biar a la pantalla 1</string>
+    <string name="btnCambiarPantalla">Cambiar a la Pantalla 2</string>
+    <string name="nombrePreferencia">MiPreferencia</string>
+    <string name="defaultNombre">Texto por defecto</string>
+    <string name="guardar">Guardar</string>
+    <string name="cargar">Cargar</string>
+
+</resources>
